@@ -13,6 +13,3 @@
 [submodule "contracts/quadratic-pricing-sales-protocol"]
 	path = contracts/quadratic-pricing-sales-protocol
 	url = git@github.com:cyotee/quadratic-pricing-sales-protocol.git
-[submodule "contracts/authorization-protocol"]
-	path = contracts/authorization-protocol
-	url = git@github.com:cyotee/authorization-protocol.git
